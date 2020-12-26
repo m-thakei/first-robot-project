@@ -2,4 +2,4 @@
 My Robotics Nanodegree First Project
 It's about a shipping storage facility ran by robots and it has a room for the humans 
 controlling them with a bathroom for them and a simulated 4 pickup trucks 
-Awaiting the packages to be loaded up.
+awaiting the packages to be loaded up.
